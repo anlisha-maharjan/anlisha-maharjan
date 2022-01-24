@@ -1,4 +1,5 @@
 ### Hi there <a href="https://github.com/anlisha-maharjan"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 ## I'm a passionate Full-Stack Developer!!
 
 - 📂 I love to work with JavaScript/Typescript/Laravel (React.js, React Native, Next.js, Angular)
@@ -7,6 +8,7 @@
 - 📫 How to reach me: [anlishamaharjan@gmail.com](mailto:anlishamaharjan@gmail.com)
 - 🥅 2022 Goals: Contribute more & more!!
 - ⚡ Fun fact: I :heart: Trekking! Obessed with mountains & lakes 😆
+
 ### Connect with me:
 
 <a href="https://github.com/anlisha-maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="anlisha" height="30" width="40" /></a>
@@ -35,5 +37,11 @@
 </p>
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anlisha-maharjan&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Anlisha's github stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlisha-maharjan&layout=compact&theme=buefy&hide_border=true" />
