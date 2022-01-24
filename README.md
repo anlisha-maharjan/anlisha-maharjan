@@ -6,7 +6,7 @@
 - 🔭 Read more about my projects at [anlisha.com.np](https://github.com/anlisha-maharjan)
 - 📫 How to reach me: [anlishamaharjan@gmail.com](mailto:anlishamaharjan@gmail.com)
 - 🥅 2022 Goals: Contribute more & more!!
-- ⚡ Fun fact: I :heart: Trekking! Obessed with mountains & lakes😆
+- ⚡ Fun fact: I :heart: Trekking! Obessed with mountains & lakes 😆
 ### Connect with me:
 
 <a href="https://github.com/anlisha-maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="anlisha" height="30" width="40" /></a>
