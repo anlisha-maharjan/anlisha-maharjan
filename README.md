@@ -44,4 +44,5 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anlisha-maharjan&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Anlisha's github stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlisha-maharjan&layout=compact&theme=buefy&hide_border=true" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=anlisha-maharjan&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Anlisha's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlisha-maharjan&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
