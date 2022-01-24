@@ -36,4 +36,5 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping with Laravel and spatie/crawler](https://medium.com/@anlishamaharjan/web-scraping-with-laravel-and-spatie-crawler-22d583b7535e?source=rss-47753a60808d------2)
 <!-- BLOG-POST-LIST:END -->
