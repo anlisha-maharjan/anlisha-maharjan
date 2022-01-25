@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every day at 6:15 AM
-    - cron: '15 6 * * *'
+    # Runs at 6:15 AM every Monday
+    - cron: '15 3 * * *'
   workflow_dispatch:
 
 jobs:
