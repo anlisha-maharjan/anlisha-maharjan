@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Multiple Laravel DataTables in one view — as a Service Implementation](https://medium.com/@anlishamaharjan/multiple-laravel-datatables-in-one-view-as-a-service-implementation-17a7465179e9?source=rss-47753a60808d------2)
 - [Web Scraping with Laravel and spatie/crawler](https://medium.com/@anlishamaharjan/web-scraping-with-laravel-and-spatie-crawler-22d583b7535e?source=rss-47753a60808d------2)
 <!-- BLOG-POST-LIST:END -->
 
