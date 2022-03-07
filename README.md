@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Internationalization with Google Spreadsheet and i18next.](https://medium.com/@anlishamaharjan/automating-internationalization-with-google-spreadsheet-and-i18next-bca991660100?source=rss-47753a60808d------2)
 - [Integrate Jitsi Meet IFrame API in React](https://medium.com/@anlishamaharjan/integrate-jitsi-meet-iframe-api-in-react-707175bda031?source=rss-47753a60808d------2)
 - [Multiple Laravel DataTables in one view — as a Service Implementation](https://medium.com/@anlishamaharjan/multiple-laravel-datatables-in-one-view-as-a-service-implementation-17a7465179e9?source=rss-47753a60808d------2)
 - [Web Scraping with Laravel and spatie/crawler](https://medium.com/@anlishamaharjan/web-scraping-with-laravel-and-spatie-crawler-22d583b7535e?source=rss-47753a60808d------2)
