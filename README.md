@@ -4,7 +4,7 @@
 
 - 📂 I love to work with JavaScript/Typescript/Laravel (React.js, React Native, Next.js, Angular)
 - 🌱 I’m currently learning Flutter
-- 🔭 Read more about my projects at [anlisha.com.np](https://github.com/anlisha-maharjan)
+- 🔭 Read more about my projects at [anlisha.com.np](https://anlisha.com.np/#project)
 - 📫 How to reach me: [anlishamaharjan@gmail.com](mailto:anlishamaharjan@gmail.com)
 - 🥅 2022 Goals: Contribute more & more!!
 - ⚡ Fun fact: I :heart: Trekking! Obessed with mountains & lakes 😆
