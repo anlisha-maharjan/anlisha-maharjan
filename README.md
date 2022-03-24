@@ -61,5 +61,6 @@
 
 <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=anlisha-maharjan&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=contribs,prs" alt="Anlisha's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlisha-maharjan&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=anlisha-maharjan&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=contribs,prs" alt="Anlisha's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlisha-maharjan&langs_count=8&exclude_repo=
+isp-customer-billing-management,boutique-hotel-website-cms&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
