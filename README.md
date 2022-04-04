@@ -52,11 +52,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS in HTML starter via NPM](https://towardsdev.com/tailwind-css-in-html-starter-via-npm-ec43a5144001?source=rss-47753a60808d------2)
 - [Fabric.js in React — Draw bounding box in webcam preview using canvas events.](https://medium.com/@anlishamaharjan/fabric-js-in-react-draw-bounding-box-in-webcam-preview-using-canvas-events-3504c8a919ba?source=rss-47753a60808d------2)
-- [Automating Internationalization with Google Spreadsheet and i18next.](https://medium.com/@anlishamaharjan/automating-internationalization-with-google-spreadsheet-and-i18next-bca991660100?source=rss-47753a60808d------2)
+- [Automating Internationalization with Google Spreadsheet and i18next.](https://towardsdev.com/automating-internationalization-with-google-spreadsheet-and-i18next-bca991660100?source=rss-47753a60808d------2)
 - [Integrate Jitsi Meet IFrame API in React](https://medium.com/@anlishamaharjan/integrate-jitsi-meet-iframe-api-in-react-707175bda031?source=rss-47753a60808d------2)
 - [Multiple Laravel DataTables in one view — as a Service Implementation](https://medium.com/@anlishamaharjan/multiple-laravel-datatables-in-one-view-as-a-service-implementation-17a7465179e9?source=rss-47753a60808d------2)
-- [Web Scraping with Laravel and spatie/crawler](https://medium.com/@anlishamaharjan/web-scraping-with-laravel-and-spatie-crawler-22d583b7535e?source=rss-47753a60808d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
