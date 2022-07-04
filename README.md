@@ -52,11 +52,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a custom time picker React component](https://medium.com/@anlishamaharjan/build-a-custom-time-picker-react-component-8a78059546d8?source=rss-47753a60808d------2)
 - [An Introduction to Absolute Imports in React Native](https://javascript.plainenglish.io/react-native-absolute-imports-quick-easy-5e3b60897f34?source=rss-47753a60808d------2)
 - [LinkedIn API — OAuth 2.0 Access Token](https://medium.com/@anlishamaharjan/linkedin-api-oauth-2-0-access-token-12760694012a?source=rss-47753a60808d------2)
 - [Tailwind CSS in HTML starter via NPM](https://towardsdev.com/tailwind-css-in-html-starter-via-npm-ec43a5144001?source=rss-47753a60808d------2)
 - [Fabric.js in React — Draw bounding box in webcam preview using canvas events.](https://medium.com/@anlishamaharjan/fabric-js-in-react-draw-bounding-box-in-webcam-preview-using-canvas-events-3504c8a919ba?source=rss-47753a60808d------2)
-- [Automating Internationalization with Google Spreadsheet and i18next.](https://towardsdev.com/automating-internationalization-with-google-spreadsheet-and-i18next-bca991660100?source=rss-47753a60808d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
