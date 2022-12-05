@@ -76,8 +76,6 @@
 
 ### 📈 Stats
 
-<p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anlisha-maharjan" alt="Anlisha's streak stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlisha-maharjan&langs_count=8&exclude_repo=isp-customer-billing-management,boutique-hotel-website-cms&layout=compact&theme=buefy&hide_border=true" />
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anlisha-maharjan" alt="Anlisha's streak stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlisha-maharjan&langs_count=8&exclude_repo=isp-customer-billing-management,boutique-hotel-website-cms&layout=compact&theme=buefy&hide_border=true" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=anlisha-maharjan&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=contribs,prs" alt="Anlisha's github stats" />
