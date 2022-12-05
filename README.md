@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://swagger.io/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/swagger.svg" alt="swagger" width="40" height="40"/> </a> 
@@ -33,7 +33,7 @@
 <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a> 
-<a href="https://www.cypress.io" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
+<a href="https://www.cypress.io" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 <a href="https://phpunit.de/" target="_blank"> <img src="https://phpunit.de/img/phpunit.svg" alt="phpunit" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bitbucket" width="40" height="40"/> </a> 
