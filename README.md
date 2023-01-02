@@ -61,8 +61,8 @@
 - [Yup.array validate object property is unique with Formik in React.](https://anlishamaharjan.medium.com/yup-array-validate-object-property-is-unique-with-formik-in-react-162fd1aff25c?source=rss-47753a60808d------2)
 - [Setup Bitbucket CI/CD for React](https://towardsdev.com/setup-bitbucket-ci-cd-for-react-bfe42e396d98?source=rss-47753a60808d------2)
 - [Google Maps API Directions Service in React — Plot efficient route on map with total distance and…](https://anlishamaharjan.medium.com/google-maps-api-directions-service-in-react-plot-efficient-route-on-map-with-total-distance-and-40f84efe9fc7?source=rss-47753a60808d------2)
+- [Build a custom time picker React component](https://anlishamaharjan.medium.com/build-a-custom-time-picker-react-component-8a78059546d8?source=rss-47753a60808d------2)
 - [An Introduction to Absolute Imports in React Native](https://javascript.plainenglish.io/react-native-absolute-imports-quick-easy-5e3b60897f34?source=rss-47753a60808d------2)
-- [LinkedIn API — OAuth 2.0 Access Token](https://anlishamaharjan.medium.com/linkedin-api-oauth-2-0-access-token-12760694012a?source=rss-47753a60808d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
