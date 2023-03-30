@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a passionate Full-Stack Developer!!
+## I'm a passionate Full-Stack Engineer!!
 
 - 📂 I love to work with JavaScript/Typescript/Laravel (React.js, React Native, Next.js, Angular)
 - 🌱 I’m currently learning Flutter
