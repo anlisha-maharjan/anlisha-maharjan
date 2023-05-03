@@ -16,7 +16,6 @@
 
 <a href="https://anlisha.com.np" target="_blank" rel="noreferrer"><img align="center" src="https://anlisha.com.np/assets/image/logo.svg" alt="anlisha" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/anlisha-maharjan" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/anlishamaharjan" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" height="40" width="40" /></a>
 <a href="https://anlishamaharjan.medium.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="60" width="50" /></a>
 <a href="https://dev.to/anlishamaharjan" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" height="50" width="50" /></a>
 
