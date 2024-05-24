@@ -2,15 +2,14 @@
 
 ## I'm a passionate Full-Stack Developer!!
 
-- 📂 I love to work with JavaScript/Typescript/Laravel (React.js, React Native, Next.js, Angular)
-- 🌱 I’m currently learning Flutter
+- 📂 I love to work with JavaScript/Typescript/Laravel (React.js, React Native, Next.js, Angular) <!--- - 🌱 I’m currently learning ?? -->
 - 👨‍💻 Read more about my projects at [anlisha.com.np](https://anlisha.com.np/#project)
 - 📄 Know about my experiences [anlisha.com.np](https://anlisha.com.np/#job)
 - 💬 Ask me about **react, angular, laravel**
 - 📝 I write articles on [anlisha.com.np/blog](https://anlisha.com.np/blog)
 - 📫 How to reach me: [anlishamaharjan@gmail.com](mailto:anlishamaharjan@gmail.com)
-- 🥅 2023 Goals: Contribute more & more!!
-- ⚡ Fun fact: I :heart: Trekking! Obessed with mountains & lakes 😆
+- 🥅 2024 Goals: Contribute more & more!!
+<!--- - ⚡ Fun fact: I :heart: Trekking! Obessed with mountains & lakes 😆 -->
 
 ### 👉 Connect with me:
 
@@ -32,9 +31,8 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bitbucket" width="40" height="40"/> </a> 
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a> 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
@@ -60,7 +58,7 @@
     <br/><br/>
     In 2018, I graduated from St. Xavier's College with a focus on software engineering and with a mantra to always stay curious. I can plan, build, launch, and maintain a web application myself—did I mention that I build mobile apps too? I have worked on a handful of cross-platform iOS and Android apps with React Native and Ionic.
     <br/><br/>
-    Fast forward to 2023 and I'm still learning and challenging myself. Everything I have done, small or big, has been a vital stepping stone for where I am today. When I'm not coding, you'll find me trekking some stunning landscapes.
+    Fast forward to 2024 and I'm still learning and challenging myself. Everything I have done, small or big, has been a vital stepping stone for where I am today. When I'm not coding, you'll find me trekking some stunning landscapes.
 </details>
 
 ### 📈 Stats
