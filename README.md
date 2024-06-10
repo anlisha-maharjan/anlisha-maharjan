@@ -46,7 +46,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploy Laravel with GitHub Actions on Shared Hosting](https://towardsdev.com/deploy-laravel-with-github-actions-on-shared-hosting-9a984adfea29?source=rss-47753a60808d------2)
-- [Deploy React with GitHub Actions on Shared Hosting](https://anlishamaharjan.medium.com/deploy-react-with-github-actions-on-shared-hosting-d950fcf27685?source=rss-47753a60808d------2)
+- [Deploy React with GitHub Actions on Shared Hosting](https://javascript.plainenglish.io/deploy-react-with-github-actions-on-shared-hosting-d950fcf27685?source=rss-47753a60808d------2)
 - [Yup.array validate object property is unique with Formik in React.](https://anlishamaharjan.medium.com/yup-array-validate-object-property-is-unique-with-formik-in-react-162fd1aff25c?source=rss-47753a60808d------2)
 - [Setup Bitbucket CI/CD for React](https://towardsdev.com/setup-bitbucket-ci-cd-for-react-bfe42e396d98?source=rss-47753a60808d------2)
 - [Google Maps API Directions Service in React — Plot efficient route on map with total distance and…](https://anlishamaharjan.medium.com/google-maps-api-directions-service-in-react-plot-efficient-route-on-map-with-total-distance-and-40f84efe9fc7?source=rss-47753a60808d------2)
