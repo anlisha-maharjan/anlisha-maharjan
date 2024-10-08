@@ -7,7 +7,7 @@
 - 📄 Know about my experiences [anlisha.com.np](https://anlisha.com.np/#job)
 - 💬 Ask me about **react, angular, laravel**
 - 📝 I write articles on [anlisha.com.np/blog](https://anlisha.com.np/blog)
-- 📫 How to reach me: [anlishamaharjan@gmail.com](mailto:anlishamaharjan@gmail.com)
+- 📫 How to reach me: [anlishamaharjan@hotmail.com](mailto:anlishamaharjan@hotmail.com)
 - 🥅 2024 Goals: Contribute more & more!!
 <!--- - ⚡ Fun fact: I :heart: Trekking! Obessed with mountains & lakes 😆 -->
 
