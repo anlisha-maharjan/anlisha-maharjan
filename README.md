@@ -1,16 +1,14 @@
 ### Hi there 👋
 
 - 📂 I love to work with JavaScript/Typescript/Java (React.js, React Native, Angular, Java Spring Boot) 
-- 🔭 I’m currently working on [Axowise](https://github.com/BackofenLab/AxoWise)
-- 👨‍💻 Read more about my projects at [anlisha.com.np](https://anlisha.com.np/#project)
-- 📄 Know about my experiences [anlisha.com.np](https://anlisha.com.np/#job)
-- 📝 I write articles on [anlisha.com.np/blog](https://anlisha.com.np/blog)
+- 🔭 I’m currently working on [Axowise](https://github.com/BackofenLab/AxoWise) <!-- - 👨‍💻 Read more about my projects at [anlisha.com.np](https://anlisha.com.np/#project) - 📄 Know about my experiences [anlisha.com.np](https://anlisha.com.np/#job)  - 📝 I write articles on [anlisha.com.np/blog](https://anlisha.com.np/blog) -->
+- 📝 I write articles on [anlishamaharjan.medium.com](https://anlishamaharjan.medium.com/)
 - 📫 How to reach me: [anlishamaharjan@gmail.com](mailto:anlishamaharjan@gmail.com)
 - 🥅 2025 Goals: Contribute more & more!!
 
 ### 👉 Connect with me:
 
-<a href="https://anlisha.com.np" target="_blank" rel="noreferrer"><img align="center" src="https://anlisha.com.np/assets/image/logo.svg" alt="anlisha" height="40" width="40" /></a>
+<!-- <a href="https://anlisha.com.np" target="_blank" rel="noreferrer"><img align="center" src="https://anlisha.com.np/assets/image/logo.svg" alt="anlisha" height="40" width="40" /></a> -->
 <a href="https://linkedin.com/in/anlisha-maharjan" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://anlishamaharjan.medium.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="60" width="50" /></a>
 <a href="https://dev.to/anlishamaharjan" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" height="50" width="50" /></a>
